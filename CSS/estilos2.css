@@ -4,3 +4,21 @@ body
     font-size: 10 px;
     text-align: center;
 }
+
+#cabecera
+{
+    background-color: darkblue;
+    color: white; 
+    padding: 0.5em;
+    margin: 0em;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#container
+{
+    padding: 0;
+    margin: 1px auto;
+    border: 1px solid #ddd;
+    width: 80%;
+}
